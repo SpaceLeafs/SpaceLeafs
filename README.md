@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Javascript!
 - 📫 How to reach me: https://turkisharmed.com/#contacts
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: A crocodile cannot stick its tongue out. 🐊

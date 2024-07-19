@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SpaceLeafs
 - 👀 I’m interested in Games!
 - 🌱 I’m currently learning Javascript!
-- 📫 How to reach me: https://turkisharmed.com/#contacts
 - 😄 Pronouns: he/him
